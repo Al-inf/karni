@@ -1,0 +1,8 @@
+{
+  "app": "المفكرة الذكية (Al-inf) — Ali-Dev",
+  "version": "1.0.7",
+  "releasedAt": "2026-11-13",
+  "htmlUrl": "https://raw.githubusercontent.com/Al-inf/karni/main/index.html",
+  "apkUrl": "https://raw.githubusercontent.com/Al-inf/karni/main/app-debug.apk",
+  "notes": "تحديث v1.0.7: تصميم أيقونة ونافذة حساب Google مطابق 100% لتطبيق نوت قوقل (Google Keep Avatar & Account Switcher) في الشريط العلوي، وتفعيل محرك المزامنة والاسترجاع السحابي الفعلي عبر الإنترنت لكل بريد إلكتروني وللهاتف تلقائياً حتى بعد حذف التطبيق وإعادة تثبيته."
+}
